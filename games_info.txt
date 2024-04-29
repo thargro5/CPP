@@ -6,7 +6,7 @@ Price: $19.99
 ===
 
 Title: Survival
-Description: You wake up and find yourself lost in the middle of a strnage wilderness move in 4 directions N S E W you lose a stat per turn try to survive
+Description: You wake up and find yourself lost in the middle of a strange wilderness, move in 4 directions N S E W, you lose a stat per turn try to survive!
 Rating: 4.5
 Price: $19.99
 
@@ -20,28 +20,28 @@ Price: $14.99
 ===
 
 Title: Call Of Business
-Description: Will you accept the call to youre destiny
+Description: Will you accept the call to youre destiny??
 Rating: 4.2
 Price: $29.99
 
 ===
 
 Title: TicTacToe
-Description: 3 moves unreal strategy beat youre opponent to 3 in a row
+Description: 3 moves. Unreal strategy. Beat youre opponent to 3 in a row!
 Rating: 4.8
 Price: $9.99
 
 ===
 
 Title: Sifu
-Description: A karate ninja with excellent poise the only weapon he mastered are razor sharp chop sticks
+Description: A karate ninja with excellent poise, the only weapon he mastered are razor sharp chop sticks!!
 Rating: 4.3
 Price: $13.99
 
 ===
 
 Title: Kill the Kat
-Description: Will curiosity get the better of you or can you beat the odds
+Description: Will curiosity get the better of you or can you beat the odds???
 Rating: 2.2
 Price: $69.99
 
