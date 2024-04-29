@@ -1,25 +1,25 @@
-Name: Happy Game
+Title: Happy Game
 Description: This game will force you to be happy
 Rating: 4.5
 Price: $19.99
 
 ===
 
-Name: Game1
+Title: Game1
 Description: Description1
 Rating: 4.5
 Price: $19.99
 
 ===
 
-Name: Funny Side Up
+Title: Funny Side Up
 Description: A racing game with parody mario kart characters
 Rating: 3.8
 Price: $14.99
 
 ===
 
-Name: Call Of Business
+Title: Call Of Business
 Description: Description3
 Rating: 4.2
 Price: $29.99
