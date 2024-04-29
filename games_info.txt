@@ -1,12 +1,12 @@
 Title: Happy Game
-Description: This game will force you to be happy
+Description: This thriller game will force you to be happy
 Rating: 4.5
 Price: $19.99
 
 ===
 
 Title: Survival
-Description: You wake up and find yourself lost in the middle of a strange wilderness, move in 4 directions N S E W, you lose a stat per turn try to survive!
+Description: You wake up and find yourself lost in the middle of a strange wilderness, move in 4 directions N S E W, strategy is the key to victory!
 Rating: 4.5
 Price: $19.99
 
@@ -20,7 +20,7 @@ Price: $14.99
 ===
 
 Title: Call Of Business
-Description: Will you accept the call to youre destiny??
+Description: Will you accept the call to youre destiny?? Strategy is your new best friend.
 Rating: 4.2
 Price: $29.99
 
@@ -34,7 +34,7 @@ Price: $9.99
 ===
 
 Title: Sifu
-Description: A karate ninja with excellent poise, the only weapon he mastered are razor sharp chop sticks!!
+Description: An action ninja with excellent poise, the only weapon he mastered are razor sharp chop sticks!!
 Rating: 4.3
 Price: $13.99
 
